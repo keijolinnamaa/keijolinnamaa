@@ -4,7 +4,7 @@ ___My name is Keijo Linnamaa and I'm a  programming student at Taitotalo.___
 - ✨ I’m interested in ... Software development
 - 🌱 I’m currently learning ... Python, JavaScript, Azure, SQL, AI..
 - 💞️ I’m looking to collaborate on ... Python projects
-- 👀 Тake a look at my website:  
+- 👀 Тake a look at my website: ... https://keijolinnamaa.github.io/website/  
 - 📫 You can reach me via email:
 
 ### Here is some tools I practice with:
