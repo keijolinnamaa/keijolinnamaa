@@ -1,5 +1,5 @@
 ###  Hi there! 👋
-___My name is Keijo Linnamaa and I'm a  programming student at Taitotalo.___
+___My name is Keijo Linnamaa and I have degree in programming.___
 
 - ✨ I’m interested in ... Software development
 - 🌱 I’m currently learning ... Python, JavaScript, Azure, SQL, AI..
